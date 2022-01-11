@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xF5ecBec4Cd61b8859bD6358d803FfEdB678aB137",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xf5ecbec4cd61b8859bd6358d803ffedb678ab137",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Devious Token",
+  "SYMBOL": "DT",
+  "MAX_SUPPLY": 99,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/devious-token",
+  "SHOW_BACKGROUND": true
+}
